@@ -4,7 +4,8 @@ A Galaxy Far Far Away (AGFFA)
 Publish v0.4-alpha
 
 Mod Team:
-  Ember369 (yep, just me)
+  Ember369
+  Updated by Lumbar527
 
 Programming and base game
   Michael Zahniser
