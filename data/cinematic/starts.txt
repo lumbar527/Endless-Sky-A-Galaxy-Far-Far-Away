@@ -69,7 +69,26 @@ start "AGFFA Sandbox"
 
 # _________________________________________________________
 
-# AGFFA Campaign
+# Civilian Start
+
+start "Civilian Start"
+	name "Civilian Start"
+	description `You start as a civilian on Coruscant, having saved up just enough money to make a life for yourself.`
+	thumbnail "cinematic/coruscant"
+	conversation
+		`"Welcome to our shipyard!" says a short woman sitting at a desk. "Before you can explore our fine selection of ships, you must first sign your name."
+		name
+		`"Thank you; please go on." She gestures through a door to the shipyard.`
+	date 16 11 3013
+	system "Coruscant"
+	planet Coruscant
+	account
+		credits 3500000
+		score 400
+
+# _________________________________________________________
+
+# Imperial Campaign
 
 start "AGFFA Campaign"
 	name "Uhh just ignore this start"
